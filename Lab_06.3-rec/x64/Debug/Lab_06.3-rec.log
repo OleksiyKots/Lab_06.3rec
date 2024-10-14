@@ -1,0 +1,4 @@
+﻿  Lab_06.3-rec.cpp
+C:\Users\DellAs\source\repos\Lab_06.3-rec\Lab_06.3-rec.cpp(36,1): warning C4715: 'count': not all control paths return a value
+C:\Users\DellAs\source\repos\Lab_06.3-rec\Lab_06.3-rec.cpp(70,1): warning C4715: 'SecondCount<int>': not all control paths return a value
+  Lab_06.3-rec.vcxproj -> C:\Users\DellAs\source\repos\Lab_06.3-rec\x64\Debug\Lab_06.3-rec.exe

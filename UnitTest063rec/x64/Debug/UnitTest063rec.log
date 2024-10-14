@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest063rec.cpp
+C:\Users\DellAs\source\repos\Lab_06.3-rec\Lab_06.3-rec.cpp(36,1): warning C4715: 'count': not all control paths return a value
+C:\Users\DellAs\source\repos\Lab_06.3-rec\Lab_06.3-rec.cpp(70,1): warning C4715: 'SecondCount<int>': not all control paths return a value
+     Creating library C:\Users\DellAs\source\repos\Lab_06.3-rec\x64\Debug\UnitTest063rec.lib and object C:\Users\DellAs\source\repos\Lab_06.3-rec\x64\Debug\UnitTest063rec.exp
+  UnitTest063rec.vcxproj -> C:\Users\DellAs\source\repos\Lab_06.3-rec\x64\Debug\UnitTest063rec.dll
